@@ -1,0 +1,8 @@
+server:
+   port: 6001
+spring:
+   application:
+      name: ms-ai-integration
+api:
+   key: ${API_KEY}
+   url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent
