@@ -13,5 +13,4 @@ Projeto desenvolvido em Java usando Spring Boot e Maven, o microserviço desenvo
 
 ### API
 
-![image](https://github.com/santosjennifer/ai-integration/assets/90192611/59ff8acf-a790-4097-8950-e42eb9ea0bec)
-
+![image](https://github.com/santosjennifer/ai-integration/assets/90192611/905037d7-973b-4683-8515-f61efa54cd16)
