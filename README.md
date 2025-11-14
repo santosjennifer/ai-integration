@@ -7,9 +7,9 @@ Projeto desenvolvido em Java usando Spring Boot e Maven, o microserviço desenvo
 > Gemini é um chatbot desenvolvido pelo Google, baseado na família de modelos de linguagem LaMDA, concorrente ao ChatGPT da OpenAI.
 
 ### Tecnologia
-- Java 21
+- Java 25
 - Maven
-- Spring Boot 3.2.3
+- Spring Boot 3.5.7
 
 ### API
 
