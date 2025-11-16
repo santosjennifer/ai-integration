@@ -1,0 +1,11 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ms-ai-integration:latest
+    container_name: ms-ai-integration
+    ports:
+      - "6001:6001"
+    env_file:
+      - .env
